@@ -7,7 +7,6 @@ CREATE TABLE users (
     firstName varchar(255) NOT NULL,
     lastName varchar(255) NOT NULL,
     PRIMARY KEY (ID)
-    
 );
 
 CREATE TABLE news (
